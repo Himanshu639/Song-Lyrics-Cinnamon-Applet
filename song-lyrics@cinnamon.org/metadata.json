@@ -2,8 +2,7 @@
     "uuid": "song-lyrics@cinnamon.org",
     "name": "Time Synced Song Lyrics",
     "description": "Shows time synced lyrics of any song from any source",
-    "version": "1.0",
+    "version": "2.0",
     "author": "Himanshu",
     "settings_schema": "org.cinnamon.my_applet"
 }
-
